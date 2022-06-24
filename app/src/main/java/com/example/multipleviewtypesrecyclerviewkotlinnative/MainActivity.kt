@@ -69,11 +69,11 @@ class MainActivity : AppCompatActivity() {
                     list.add("Type A")
                 }
 
-                2 -> {
+                1 -> {
                     list.add("Type B")
                 }
 
-                3 -> {
+                2 -> {
                     list.add("Type C")
                 }
             }
